@@ -213,7 +213,6 @@ Species and genus should not be "NA" and genus has 2 or more members.
 
 
 ```bash
-mkdir -p ~/data/organelle/mito/summary
 cd ~/data/organelle/mito/summary
 
 # filter out accessions without linage information (strain, species, genus and family)
